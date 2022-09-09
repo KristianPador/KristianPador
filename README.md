@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KristianPador
-- 👀 I’m interested in furrher expanding my knowledge in coding and connect with fellow software developers.
+- 👀 I’m interested in further expanding my knowledge in coding and connect with fellow software developers.
 - 🌱 I’m currently learning Java, MySql, and Spring Boot
 - 💞️ I’m looking to collaborate on nothing at the moment, as this is still new to me.
 - 📫 How to reach me: LinkedIn.
